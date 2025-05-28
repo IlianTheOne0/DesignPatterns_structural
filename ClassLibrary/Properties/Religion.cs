@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary.CreationalPatterns.Bridge.Religion;
+﻿namespace ClassLibrary.StructuralPatterns.Bridge.Religion;
 
 public enum Religion
 {

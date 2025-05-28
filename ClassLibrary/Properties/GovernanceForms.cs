@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary.CreationalPatterns.Bridge.GovernanceForms;
+﻿namespace ClassLibrary.StructuralPatterns.Bridge.GovernanceForms;
 
 public enum GovernanceForms
 {

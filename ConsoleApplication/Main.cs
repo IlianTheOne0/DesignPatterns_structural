@@ -1,7 +1,7 @@
-﻿namespace ClassLibrary.CreationalPatterns.Bridge;
-using ClassLibrary.CreationalPatterns.Bridge.NCountry;
-using ClassLibrary.CreationalPatterns.Bridge.GovernanceForms;
-using ClassLibrary.CreationalPatterns.Bridge.Religion;
+﻿namespace ClassLibrary.StructuralPatterns.Bridge;
+using ClassLibrary.StructuralPatterns.Bridge.NCountry;
+using ClassLibrary.StructuralPatterns.Bridge.GovernanceForms;
+using ClassLibrary.StructuralPatterns.Bridge.Religion;
 
 public class Client
 {
